@@ -1,4 +1,4 @@
-# NormalizationAndDBDesign
+# normalization-and-db-design
 VHT2 Task 1
 
 This repository contains examples on how to:
